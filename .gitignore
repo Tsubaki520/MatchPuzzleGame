@@ -1,0 +1,15 @@
+# Ignore everything.  We'll whitelist what we want to pull in.
+/*
+/*/
+
+# Git meta files
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
+
+# Whitelisted directories/files
+!/ProjectSettings/
+!/Assets/
+!/UnityPackageManager/
+!/Release/
