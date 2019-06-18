@@ -6,6 +6,6 @@ Feel free to reuse this source code for whatever you want. However, some images 
 
 ## In-Game Screenshots
 
-![Stage Selection Screenshot](https://raw.githubusercontent.com/ACken2/VIR-OrbGame/master/Release/Images/Stage-Selection-v0.1.png)
-![Equipment Selection Screenshot](https://raw.githubusercontent.com/ACken2/VIR-OrbGame/master/Release/Images/Equipment-Selection-v0.1.png)
-![In-Game Screenshot](https://raw.githubusercontent.com/ACken2/VIR-OrbGame/master/Release/Images/Game-v0.1.png)
+![Stage Selection Screenshot](https://github.com/Tsubaki520/MatchPuzzleGame/blob/master/Release/Images/Stage-Selection-v0.1.png)
+![Equipment Selection Screenshot](https://raw.githubusercontent.com/Tsubaki520/MatchPuzzleGame/master/Release/Images/Equipment-Selection-v0.1.png)
+![In-Game Screenshot](https://raw.githubusercontent.com/Tsubaki520/MatchPuzzleGame/master/Release/Images/Game-v0.1.png)
